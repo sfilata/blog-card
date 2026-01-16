@@ -42,7 +42,7 @@ body {
   height: 288px;
 }
 
-a::after {
+.card-container a::after {
   content: url('../img/Vector.svg');
   display: inline-block;
   width: 20px;
